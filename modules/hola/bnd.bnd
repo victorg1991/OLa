@@ -1,0 +1,5 @@
+Bundle-Name: hola
+Bundle-SymbolicName: hola
+Bundle-Version: 1.0.0
+Export-Package: hola.constants
+Web-ContextPath: /hola
